@@ -8,3 +8,6 @@ data/*.db-wal
 !.env.example
 .DS_Store
 npm-debug.log*
+
+data/
+*.db
