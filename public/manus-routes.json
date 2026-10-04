@@ -1,0 +1,40 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "EventPulse AI Dashboard"
+    },
+    {
+      "path": "/agent",
+      "title": "EventPulse AI Agent"
+    },
+    {
+      "path": "/events",
+      "title": "Market Events"
+    },
+    {
+      "path": "/currencies",
+      "title": "Currencies Markets"
+    },
+    {
+      "path": "/portfolio",
+      "title": "Paper Portfolio"
+    },
+    {
+      "path": "/trades",
+      "title": "Paper Trades"
+    },
+    {
+      "path": "/performance",
+      "title": "Simulated Performance"
+    },
+    {
+      "path": "/audit",
+      "title": "Audit Log"
+    },
+    {
+      "path": "/settings",
+      "title": "Settings"
+    }
+  ]
+}
