@@ -9,5 +9,11 @@
     "sourceMap": true,
     "declaration": false
   },
-  "include": ["server/**/*.ts"]
+  "include": [
+    "server/index.ts",
+    "server/types.ts",
+    "server/agents/**/*.ts",
+    "server/db/**/*.ts",
+    "server/engine/**/*.ts"
+  ]
 }
